@@ -9,3 +9,11 @@
 4. Implement alhoritm of calculation GCD (Greatest Common Divisor) and LCD (Lowest Common Denominator)
 
 5. Implement treeview menu with interative approach (optional);
+
+## Homework 4 ##
+
+1. Implement observable collection, there are should be couple lists that watching for that collection, and on data change they should rerender content.
+
+## Homework 5 ##
+
+Implement observable form.
